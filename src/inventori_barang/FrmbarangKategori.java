@@ -40,6 +40,7 @@ public class FrmbarangKategori extends javax.swing.JDialog {
         btnsave.setText("Simpan");
     }
     
+    
     private void initUI(){ 
         getContentPane().setBackground(new Color(245, 245, 245));
         
