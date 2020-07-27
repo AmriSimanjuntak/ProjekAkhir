@@ -15,7 +15,7 @@ import java.sql.SQLException;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 import javax.swing.JOptionPane;
-import net.proteanit.sql.DbUtils;
+//import net.proteanit.sql.DbUtils;
 /**
  *
  * @author Melisa Pangaribuan
@@ -69,7 +69,7 @@ public class FrmbarangKategori extends javax.swing.JDialog {
             Connection conn = konek.openkoneksi();
             java.sql.Statement stm = conn.createStatement();
             java.sql.ResultSet sql = stm.executeQuery("SELECT tmkategori.id, tmkategori.nama, tmkategori.no_rak FROM tmkategori");
-            datatable.setModel(DbUtils.resultSetToTableModel(sql));
+//            datatable.setModel(DbUtils.resultSetToTableModel(sql));
             datatable.getColumnModel().getColumn(0).setPreferredWidth(5);
             datatable.getColumnModel().getColumn(1).setPreferredWidth(100);
             datatable.getColumnModel().getColumn(2).setPreferredWidth(50);
