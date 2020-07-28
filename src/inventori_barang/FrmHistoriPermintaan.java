@@ -308,6 +308,7 @@ public class FrmHistoriPermintaan extends javax.swing.JDialog {
             java.util.logging.Logger.getLogger(FrmHistoriPermintaan.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
         }
         //</editor-fold>
+        //</editor-fold>
 
         /* Create and display the form */
         java.awt.EventQueue.invokeLater(() -> {

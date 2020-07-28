@@ -20,7 +20,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author amris
+ * @author januar
  */
 public class Frmakun extends javax.swing.JDialog {
 
@@ -340,6 +340,7 @@ public class Frmakun extends javax.swing.JDialog {
         } catch (javax.swing.UnsupportedLookAndFeelException ex) {
             java.util.logging.Logger.getLogger(Frmakun.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
         }
+        //</editor-fold>
         //</editor-fold>
 
         /* Create and display the dialog */

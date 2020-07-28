@@ -19,7 +19,7 @@ import java.util.logging.Logger;
 import javax.swing.JOptionPane;
 /**
  *
- * @author amris
+ * @author januar
   
  */
 public class FrmakunUser extends javax.swing.JDialog {

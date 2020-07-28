@@ -18,7 +18,7 @@ import javax.swing.JOptionPane;
 import net.proteanit.sql.DbUtils;
 /**
  *
- * @author amris
+ * @author melisa
  */
 
 public class Frmbarang extends javax.swing.JDialog {
@@ -713,6 +713,22 @@ public class Frmbarang extends javax.swing.JDialog {
         } catch (javax.swing.UnsupportedLookAndFeelException ex) {
             java.util.logging.Logger.getLogger(Frmbarang.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
         }
+        //</editor-fold>
+        //</editor-fold>
+        //</editor-fold>
+        //</editor-fold>
+        //</editor-fold>
+        //</editor-fold>
+        //</editor-fold>
+        //</editor-fold>
+        //</editor-fold>
+        //</editor-fold>
+        //</editor-fold>
+        //</editor-fold>
+        //</editor-fold>
+        //</editor-fold>
+        //</editor-fold>
+        //</editor-fold>
         //</editor-fold>
         //</editor-fold>
         //</editor-fold>

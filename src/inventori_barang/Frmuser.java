@@ -21,7 +21,7 @@ import java.security.NoSuchAlgorithmException;
 
 /**
  *
- * @author amris
+ * @author januar
  
  */
 public class Frmuser extends javax.swing.JDialog {
@@ -711,6 +711,14 @@ public class Frmuser extends javax.swing.JDialog {
         } catch (javax.swing.UnsupportedLookAndFeelException ex) {
             java.util.logging.Logger.getLogger(Frmuser.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
         }
+        //</editor-fold>
+        //</editor-fold>
+        //</editor-fold>
+        //</editor-fold>
+        //</editor-fold>
+        //</editor-fold>
+        //</editor-fold>
+        //</editor-fold>
         //</editor-fold>
         //</editor-fold>
         //</editor-fold>
